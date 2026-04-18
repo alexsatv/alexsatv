@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsatv)](https://github.com/anuraghazra/github-readme-stats)
-[my favorite figure skater](https://media1.tenor.com/m/v2xGZ96BWK4AAAAd/amber-glenn-figure-skating.gif)
+[my favorite figure skater](https://64.media.tumblr.com/2a5e3bcc5974c83bb33622fd38c369f9/ecf02bf682a6e0e5-0d/s1280x1920/c88d46064439e170d74e6501e3f73b2f3b21a083.gif)
 <!--
 **alexsatv/alexsatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
