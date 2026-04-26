@@ -1,7 +1,7 @@
 hi, i'm alex! 👋
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsatv&layout=compact&theme=github_dark" alt="top langs"/>
-  <img src="https://64.media.tumblr.com/2a5e3bcc5974c83bb33622fd38c369f9/ecf02bf682a6e0e5-0d/s1280x1920/c88d46064439e170d74e6501e3f73b2f3b21a083.gif" alt="amber" height="165"/>
+  <!-- <img src="https://64.media.tumblr.com/2a5e3bcc5974c83bb33622fd38c369f9/ecf02bf682a6e0e5-0d/s1280x1920/c88d46064439e170d74e6501e3f73b2f3b21a083.gif" alt="amber" height="165"/> -->
 </p>
 <!--
 **alexsatv/alexsatv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
